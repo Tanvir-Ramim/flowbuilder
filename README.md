@@ -18,12 +18,12 @@ Check out the live application: [https://flowbuilders.netlify.app/](https://flow
 
 ### Step-by-Step Setup
 
-# 1st clone this repo
+ 1st clone this repo
 
-# Then open client Floder In Vs Code
+ Then open client Floder In Vs Code
 
-# And then 1st npm install
+ And then 1st npm install
 
-# Then npm run dev
+  Then npm run dev
 
-npm run dev
+
